@@ -10,7 +10,7 @@ eg. A = [1,2,3,4,5,6,7,8,9,0]
 output = smallest = 0
 largest = 9
 
-# 3)[repetition_of_element]():
+# 3)[repetition_of_element](https://github.com/MehulSaini/Arrays/blob/4ba9c7995e57d31336d9690238353d7a3709319a/repetition_of_element.cpp):
 program used to take input of a ten-element array and give an output of elements repeating in it and how many times they repeat.
 eg. A = [1,2,3,4,5,6,7,8,8,9]
 output = 8 is repeating 2 times
