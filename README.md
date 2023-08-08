@@ -4,13 +4,13 @@ program used to take input of a ten-element array and give an output of an array
 eg. A = [1,2,3,4,0,0,5,6,7,8]
 output = [1,2,3,4,5,6,7,8,0,0]
 
-# 2) smallest_and_largest.cpp:
+# 2) [smallest_and_largest](https://github.com/MehulSaini/Arrays/blob/dc3e532519ce2fac55d85fe5406946393fbdf45b/smallest_and_largest.cpp):
 program used to take input of a ten-element array and give an output of the smallest and largest element in it.
 eg. A = [1,2,3,4,5,6,7,8,9,0]
 output = smallest = 0
 largest = 9
 
-# 3) repetition_of_element.cpp:
+# 3)[repetition_of_element]():
 program used to take input of a ten-element array and give an output of elements repeating in it and how many times they repeat.
 eg. A = [1,2,3,4,5,6,7,8,8,9]
 output = 8 is repeating 2 times
