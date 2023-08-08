@@ -15,6 +15,8 @@ program used to take input of a ten-element array and give an output of elements
 eg. A = [1,2,3,4,5,6,7,8,8,9]
 output = 8 is repeating 2 times
 
-# 4)peak_values.cpp:
+# 4)[peak_values](https://github.com/MehulSaini/Arrays/blob/f46d48c69baf62f94fba4a81959d39979ce99a8a/peak_values.cpp):
 program used to take input of a ten-element array and give an output values which are at peak i.e neighbouring elements are lower in value.
-eg. A = [1,2,3,4,3,5,4,
+eg. A = [1,2,3,4,3,5,4,6,7,8]
+output = 4 5
+
