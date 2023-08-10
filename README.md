@@ -20,7 +20,11 @@ program used to take input of a ten-element array and give an output values whic
 eg. A = [1,2,3,4,3,5,4,6,7,8]
 output = 4 5
 
-#5) [print_array](https://github.com/MehulSaini/Arrays/blob/6f3314baa8a85990bc1402842f198e722c6d8a8d/print_array.cpp):
+# 5)[print_array](https://github.com/MehulSaini/Arrays/blob/6f3314baa8a85990bc1402842f198e722c6d8a8d/print_array.cpp):
 program used to take input of a ten-element array and print it out as it is.
 
-#6 [
+# 6)[search_ element_in_array](https://github.com/MehulSaini/Arrays/blob/bea7aef0483a00606f7cef98bcff0b751f29f0c7/search_element_in_array.cpp):
+program used to take input of a ten-element array and print out the index of the element input by the user.
+eg. A = [1,2,3,4,5,6,7,8,9,0]
+input = 5
+output = 4
