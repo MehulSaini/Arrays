@@ -10,20 +10,20 @@ eg. A = [1,2,3,4,5,6,7,8,9,0]
 output = smallest = 0
 largest = 9
 
-# 3)[repetition_of_element](https://github.com/MehulSaini/Arrays/blob/4ba9c7995e57d31336d9690238353d7a3709319a/repetition_of_element.cpp):
+# 3) [repetition_of_element](https://github.com/MehulSaini/Arrays/blob/4ba9c7995e57d31336d9690238353d7a3709319a/repetition_of_element.cpp):
 program used to take input of a ten-element array and give an output of elements repeating in it and how many times they repeat.
 eg. A = [1,2,3,4,5,6,7,8,8,9]
 output = 8 is repeating 2 times
 
-# 4)[peak_values](https://github.com/MehulSaini/Arrays/blob/f46d48c69baf62f94fba4a81959d39979ce99a8a/peak_values.cpp):
+# 4) [peak_values](https://github.com/MehulSaini/Arrays/blob/f46d48c69baf62f94fba4a81959d39979ce99a8a/peak_values.cpp):
 program used to take input of a ten-element array and give an output values which are at peak i.e neighbouring elements are lower in value.
 eg. A = [1,2,3,4,3,5,4,6,7,8]
 output = 4 5
 
-# 5)[print_array](https://github.com/MehulSaini/Arrays/blob/6f3314baa8a85990bc1402842f198e722c6d8a8d/print_array.cpp):
+# 5) [print_array](https://github.com/MehulSaini/Arrays/blob/6f3314baa8a85990bc1402842f198e722c6d8a8d/print_array.cpp):
 program used to take input of a ten-element array and print it out as it is.
 
-# 6)[search_ element_in_array](https://github.com/MehulSaini/Arrays/blob/bea7aef0483a00606f7cef98bcff0b751f29f0c7/search_element_in_array.cpp):
+# 6) [search_ element_in_array](https://github.com/MehulSaini/Arrays/blob/bea7aef0483a00606f7cef98bcff0b751f29f0c7/search_element_in_array.cpp):
 program used to take input of a ten-element array and print out the index of the element input by the user.
 eg. A = [1,2,3,4,5,6,7,8,9,0]
 input = 5
