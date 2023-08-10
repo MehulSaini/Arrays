@@ -20,3 +20,7 @@ program used to take input of a ten-element array and give an output values whic
 eg. A = [1,2,3,4,3,5,4,6,7,8]
 output = 4 5
 
+#5) [print_array](https://github.com/MehulSaini/Arrays/blob/6f3314baa8a85990bc1402842f198e722c6d8a8d/print_array.cpp):
+program used to take input of a ten-element array and print it out as it is.
+
+#6 [
